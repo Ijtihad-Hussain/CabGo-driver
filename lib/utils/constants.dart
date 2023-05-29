@@ -6,7 +6,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 
 import '../models/user.dart';
 
-String apiKey = 'AIzaSyAnPZwviAk7_pC3ZTgZHA_QLe8nSsdMlIs';
+String apiKey = '';
 
 User? currentFirebaseUser;
 
